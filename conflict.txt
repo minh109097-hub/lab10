@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Kubernetes
+=======
+Hello Linux
+>>>>>>> feature/a
